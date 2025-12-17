@@ -1,0 +1,13 @@
+Loan application Workflow
+
+Deliverables
+•	What business problem your workflow solves
+1.	The business problem is prompt delivery and email notification when an applicant applies for a loan. 
+2.	The filter is used to remove loans that are greater than 5,000,000. This is to work on applicants with big ticket sizes and be able to monitor the start of turnaround time for credit analysts.
+3.	The challenge encountered with this workflow was mapping out the data on the form and google sheet appropriately. 
+Evaluation Criteria
+•	Scenario runs without errors - Yes
+•	Data mapping is correct - Yes
+•	Filter is properly configured- Yes
+•	Use case is practical - Yes
+https://zapier.com/editor/339616977/published/_GEN_1765968986686/sample
